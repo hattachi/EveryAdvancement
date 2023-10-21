@@ -1,0 +1,4 @@
+name: everyeffect
+version: '${project.version}'
+main: flag.me.hattachi.Hattachi
+api-version: 1.20
